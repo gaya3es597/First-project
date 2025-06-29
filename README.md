@@ -1,2 +1,2 @@
 # First-project
-This is the first E-Commerce project with Brototype
+Figma url : https://www.figma.com/design/wB7LZu2QFGoUOy0CEGM13B/gayathry-BCR73?node-id=0-1&p=f&t=2nTSEZ0TwMVJ9nfg-0
